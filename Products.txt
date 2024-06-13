@@ -1,0 +1,4 @@
+ProductID,ProductName,Company,Price,Quantity
+1,Al Batal Chilli Flavor Potato Chips,Al Batal,30,100
+2,Almarai Full Fat Fresh Laban 2.85L,Almarai,30.5,200
+3,Ruchi BBQ Chanachur 35g,Ruchi,9.9900000000000002,300

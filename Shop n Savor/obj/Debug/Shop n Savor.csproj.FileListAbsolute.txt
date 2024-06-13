@@ -1,0 +1,32 @@
+C:\Users\tanbi\OneDrive\Codes\Shop n Savor\bin\Debug\Shop n Savor.exe.config
+C:\Users\tanbi\OneDrive\Codes\Shop n Savor\bin\Debug\Shop n Savor.exe
+C:\Users\tanbi\OneDrive\Codes\Shop n Savor\bin\Debug\Shop n Savor.pdb
+C:\Users\tanbi\OneDrive\Codes\Shop n Savor\obj\Debug\Shop n Savor.csproj.AssemblyReference.cache
+C:\Users\tanbi\OneDrive\Codes\Shop n Savor\obj\Debug\Shop n Savor.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanbi\OneDrive\Codes\Shop n Savor\obj\Debug\Shop_n_Savor.Form1.resources
+C:\Users\tanbi\OneDrive\Codes\Shop n Savor\obj\Debug\Shop_n_Savor.Properties.Resources.resources
+C:\Users\tanbi\OneDrive\Codes\Shop n Savor\obj\Debug\Shop n Savor.csproj.GenerateResource.cache
+C:\Users\tanbi\OneDrive\Codes\Shop n Savor\obj\Debug\Shop n Savor.csproj.CoreCompileInputs.cache
+C:\Users\tanbi\OneDrive\Codes\Shop n Savor\obj\Debug\Shop n Savor.exe
+C:\Users\tanbi\OneDrive\Codes\Shop n Savor\obj\Debug\Shop n Savor.pdb
+C:\Users\tanbi\OneDrive\Codes\Shop n Savor\obj\Debug\Shop_n_Savor.LogIn.resources
+C:\Users\tanbi\OneDrive\Codes\Shop n Savor\obj\Debug\Shop_n_Savor.Admin.resources
+C:\Users\tanbi\OneDrive\Codes\Shop n Savor\obj\Debug\Shop_n_Savor.Inventory.resources
+C:\Users\tanbi\OneDrive\Codes\Shop n Savor\obj\Debug\Shop_n_Savor.Sell.resources
+C:\Users\tanbi\OneDrive\Codes\Shop n Savor\obj\Debug\Shop_n_Savor.Cart.resources
+C:\Users\tanbi\OneDrive\Codes\Supermarket Inventory Management System\Shop n Savor\bin\Debug\Shop n Savor.exe.config
+C:\Users\tanbi\OneDrive\Codes\Supermarket Inventory Management System\Shop n Savor\bin\Debug\Shop n Savor.exe
+C:\Users\tanbi\OneDrive\Codes\Supermarket Inventory Management System\Shop n Savor\bin\Debug\Shop n Savor.pdb
+C:\Users\tanbi\OneDrive\Codes\Supermarket Inventory Management System\Shop n Savor\obj\Debug\Shop n Savor.csproj.AssemblyReference.cache
+C:\Users\tanbi\OneDrive\Codes\Supermarket Inventory Management System\Shop n Savor\obj\Debug\Shop n Savor.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanbi\OneDrive\Codes\Supermarket Inventory Management System\Shop n Savor\obj\Debug\Shop_n_Savor.Admin.resources
+C:\Users\tanbi\OneDrive\Codes\Supermarket Inventory Management System\Shop n Savor\obj\Debug\Shop_n_Savor.Cart.resources
+C:\Users\tanbi\OneDrive\Codes\Supermarket Inventory Management System\Shop n Savor\obj\Debug\Shop_n_Savor.Form1.resources
+C:\Users\tanbi\OneDrive\Codes\Supermarket Inventory Management System\Shop n Savor\obj\Debug\Shop_n_Savor.Inventory.resources
+C:\Users\tanbi\OneDrive\Codes\Supermarket Inventory Management System\Shop n Savor\obj\Debug\Shop_n_Savor.LogIn.resources
+C:\Users\tanbi\OneDrive\Codes\Supermarket Inventory Management System\Shop n Savor\obj\Debug\Shop_n_Savor.Properties.Resources.resources
+C:\Users\tanbi\OneDrive\Codes\Supermarket Inventory Management System\Shop n Savor\obj\Debug\Shop_n_Savor.Sell.resources
+C:\Users\tanbi\OneDrive\Codes\Supermarket Inventory Management System\Shop n Savor\obj\Debug\Shop n Savor.csproj.GenerateResource.cache
+C:\Users\tanbi\OneDrive\Codes\Supermarket Inventory Management System\Shop n Savor\obj\Debug\Shop n Savor.csproj.CoreCompileInputs.cache
+C:\Users\tanbi\OneDrive\Codes\Supermarket Inventory Management System\Shop n Savor\obj\Debug\Shop n Savor.exe
+C:\Users\tanbi\OneDrive\Codes\Supermarket Inventory Management System\Shop n Savor\obj\Debug\Shop n Savor.pdb
